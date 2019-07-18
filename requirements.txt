@@ -1,0 +1,4 @@
+# Pypi requirements for running CI. Contributors should install these, too.
+
+requests
+wget
