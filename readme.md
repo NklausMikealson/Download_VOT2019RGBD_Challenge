@@ -45,4 +45,4 @@ On Windows:
 python dlvot.py
 ```
 
-It's necessary to run dlvot with elevated privileges
+For Windows user: It's necessary to run dlvot with elevated privileges
