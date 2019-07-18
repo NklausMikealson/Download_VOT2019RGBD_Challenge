@@ -3,6 +3,8 @@
 This script allows you to download [VOT Challenge](http://votchallenge.net/)
 sequences, without requiring the VOT toolkit.
 
+You can download this Dataset paper [here](https://arxiv.org/pdf/1907.00618.pdf)
+
 If you want to download another subclass challenge, you can see this [Repositories](<https://github.com/brobeson/dlvot>)
 
 ## Prerequisites 
