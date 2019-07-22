@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## Download these sequences
 
 - Setup your python environment
-- Download the [description.json](http://data.votchallenge.net/vot2018/main/description.json) and put this document in your folder
+- Download the [description.json](http://data.votchallenge.net/vot2019/rgbd/description.json) and put this document in your folder
 - Edit dlvot.py on line 140 - 147
   - The default root download directory is **./Videos/vot/** , and you can change this directory on line 140
   - To avoid the network error, you can set the cycle index on line 142
